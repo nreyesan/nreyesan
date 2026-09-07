@@ -19,16 +19,16 @@
 
 ### ⚡ Actividad Reciente:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/nreyesan/primerRepo2026/pull/8) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-2. 💪 Opened PR [#8](https://github.com/nreyesan/primerRepo2026/pull/8) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-3. 🎉 Merged PR [#7](https://github.com/nreyesan/primerRepo2026/pull/7) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-4. 🔒 Closed issue [#5](https://github.com/nreyesan/primerRepo2026/issues/5) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-5. 💪 Opened PR [#7](https://github.com/nreyesan/primerRepo2026/pull/7) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-6. 🔒 Closed issue [#4](https://github.com/nreyesan/primerRepo2026/issues/4) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-7. ❗ Opened issue [#6](https://github.com/nreyesan/primerRepo2026/issues/6) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-8. ❗ Opened issue [#5](https://github.com/nreyesan/primerRepo2026/issues/5) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-9. ℹ️ Assigned issue [#4](https://github.com/nreyesan/primerRepo2026/issues/4) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
-10. ❗ Opened issue [#4](https://github.com/nreyesan/primerRepo2026/issues/4) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+1. 🔒 Closed issue [#1](https://github.com/nreyesan/repo_creado_desde_CLI/issues/1) in [nreyesan/repo_creado_desde_CLI](https://github.com/nreyesan/repo_creado_desde_CLI)
+2. ❗ Opened issue [#1](https://github.com/nreyesan/repo_creado_desde_CLI/issues/1) in [nreyesan/repo_creado_desde_CLI](https://github.com/nreyesan/repo_creado_desde_CLI)
+3. 🎉 Merged PR [#8](https://github.com/nreyesan/primerRepo2026/pull/8) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+4. 💪 Opened PR [#8](https://github.com/nreyesan/primerRepo2026/pull/8) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+5. 🎉 Merged PR [#7](https://github.com/nreyesan/primerRepo2026/pull/7) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+6. 🔒 Closed issue [#5](https://github.com/nreyesan/primerRepo2026/issues/5) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+7. 💪 Opened PR [#7](https://github.com/nreyesan/primerRepo2026/pull/7) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+8. 🔒 Closed issue [#4](https://github.com/nreyesan/primerRepo2026/issues/4) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+9. ❗ Opened issue [#6](https://github.com/nreyesan/primerRepo2026/issues/6) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
+10. ❗ Opened issue [#5](https://github.com/nreyesan/primerRepo2026/issues/5) in [nreyesan/primerRepo2026](https://github.com/nreyesan/primerRepo2026)
 <!--END_SECTION:activity-->
 
 <p align="center"> <i>Este perfil está en construcción — ¡pronto más proyectos por aquí! 🚧</i> </p>
