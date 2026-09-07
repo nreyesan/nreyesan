@@ -17,4 +17,8 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nreyesan/nreyesan)
 
+### ⚡ Actividad Reciente:
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
+
 <p align="center"> <i>Este perfil está en construcción — ¡pronto más proyectos por aquí! 🚧</i> </p>
